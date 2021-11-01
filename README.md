@@ -3,7 +3,7 @@
 My projects for Udacity's AWS Machine Learning Engineer Nanodegree Program.
 
 
-Topics include:
+## Topics include:
 
 - Welcome to the AWS Machine Learning Foundations Course.
 - Introduction to Machine Learning.
